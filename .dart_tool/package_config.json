@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "dart_sort",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    }
+  ],
+  "generated": "2023-01-26T13:31:41.452785Z",
+  "generator": "pub",
+  "generatorVersion": "2.19.0"
+}
